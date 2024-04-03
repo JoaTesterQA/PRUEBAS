@@ -24,7 +24,7 @@ body {
 }
 
 .swiper-button-prev::after {
-    font-size: 25px;
+    font-size: 26px;
 }
 
 .swiper-button-next {
@@ -504,7 +504,7 @@ body {
    }
 
    .info-txt p {
-    font-size: 16px;
+    font-size: 15px;
    }
 
    .btn-1 {
